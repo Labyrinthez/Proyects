@@ -1,2 +1,0 @@
-# Proyects
-Python code
